@@ -1,1 +1,1 @@
-<?php include_once("public/phpinfo.php"); ?>
+<?php include_once("dev/led_matrix/index.php"); ?>
